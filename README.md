@@ -1,1 +1,1 @@
-# python001
+This project contains the code related to python
